@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/Tools/ImagePanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/Tools/StatusPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/Tools/Tools.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/db/BatchSqlHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/db/SqlHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/model/CheckOutModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/model/DishModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/model/EmpModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/model/OrderModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/model/ReserveModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/model/UserModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/AddDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/Calendar/DataTime.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/Calendar/NowDate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/Calendar/SureExit.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/ChartInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/CheckoutDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/DishesInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/EmpInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/HelpInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/Index.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/Login.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/LoginInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/OrderDishDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/OrderIndex.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/ReserveDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/ShowOrderDishesDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/ShowTime.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/UnsubscribeDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/UpdateDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/Window1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/WindowCalendar.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/showAllInfo.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
